@@ -1,0 +1,13 @@
+body{
+    background-color: #ccc;
+}
+
+div{
+    background-color: #fff;
+    width: 200px;
+    border-radius: 8px;
+}
+
+ul{
+    list-style-type: none;
+}
