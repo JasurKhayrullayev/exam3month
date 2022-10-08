@@ -16,3 +16,9 @@
 
 // 2-masala
 
+
+function change(str){
+    return str.split(' ').map(e=>e[0].toUpperCase()).join(".")
+}
+change("xayrullayev Jasur")
+console.log(change(str));
